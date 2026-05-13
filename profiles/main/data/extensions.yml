@@ -1,0 +1,48 @@
+disabled:
+  - id: bwya77.islands-dark
+    uuid: 00000000-0000-0000-0000-000000000000
+enabled:
+  - id: 4ops.terraform
+    uuid: b861aa84-146f-440f-b6be-76124b02b729
+  - id: Anthropic.claude-code
+    uuid: 3c13ae49-babe-45fe-8c48-5e45077a62bf
+  - id: Betajob.modulestf
+    uuid: 2d67beaa-22bc-4f5b-a6d1-a73b82d9c52e
+  - id: bradlc.vscode-tailwindcss
+    uuid: 4db62a7c-7d70-419c-96d2-6c3a4dc77ea5
+  - id: Chanzhaoyu.svelte-5-snippets
+    uuid: 4ab27b74-4bc3-48aa-b268-7b7461d938e9
+  - id: dbaeumer.vscode-eslint
+    uuid: 583b2b34-2c1e-4634-8c0b-0b82e283ea3a
+  - id: esbenp.prettier-vscode
+    uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
+  - id: inlang.vs-code-extension
+    uuid: 82d0cb85-5a95-4716-9cdf-4723225d80f2
+  - id: jeanp413.open-remote-ssh
+    uuid: 9fc16cea-08e2-4ae5-bf75-224004d722ff
+  - id: l-igh-t.vscode-theme-seti-folder
+    uuid: 76dbc2b8-5250-4cbc-8605-e0eb560e2ccc
+  - id: LazyProvider.couchuml
+    uuid: fb30d4c1-1834-4ad0-8236-70f130cb9d5a
+  - id: ms-azuretools.vscode-containers
+    uuid: 2cd1d691-3d69-4d2d-ae39-fda4bc4cfd3d
+  - id: ms-python.debugpy
+    uuid: 4bd5d2c9-9d65-401a-b0b2-7498d9f17615
+  - id: ms-python.python
+    uuid: f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5
+  - id: ms-python.vscode-python-envs
+    uuid: b41d8e8a-b6d4-4202-8f07-7189bdda81be
+  - id: ms-vscode.live-server
+    uuid: 4eae7368-ec63-429d-8449-57a7df5e2117
+  - id: njpwerner.autodocstring
+    uuid: 2d6fea35-f68e-461d-9b7b-5cd05be99451
+  - id: rodolphebarbanneau.python-docstring-highlighter
+    uuid: da322c09-e2b8-4354-9f0c-06d0a7a8aa77
+  - id: subframe7536.custom-ui-style
+    uuid: 5d260afc-8d75-4731-a881-66951c630816
+  - id: svelte.svelte-vscode
+    uuid: c5463f77-75d9-4a25-8cc4-d8541a461285
+  - id: tomoki1207.pdf
+    uuid: 6db08635-0c6a-45ba-9a4b-8c3e192c63c2
+  - id: zokugun.cron-tasks
+    uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb
